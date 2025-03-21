@@ -1,0 +1,8 @@
+nltk
+pandas
+numpy
+beautifulsoup4 
+lxml
+scikit-learn
+matplotlib
+seaborn
